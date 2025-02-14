@@ -1,0 +1,28 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "model": "Toyota Camry",
+      "year": 2022,
+      "price": 50,
+      "image": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb",
+      "available": true
+    },
+    {
+      "id": 2,
+      "model": "Honda Civic",
+      "year": 2023,
+      "price": 45,
+      "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf",
+      "available": true
+    },
+    {
+      "id": 3,
+      "model": "Tesla Model 3",
+      "year": 2023,
+      "price": 75,
+      "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771",
+      "available": false
+    }
+  ]
+} 
