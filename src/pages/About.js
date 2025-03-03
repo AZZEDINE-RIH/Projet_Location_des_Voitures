@@ -10,10 +10,10 @@ function About() {
         <div className="about-content">
           <h2>Our Story</h2>
           <p>
-            Founded in 2010, CarRental has grown from a small local business to 
-            one of the leading car rental services in the region. Our commitment 
-            to quality service and customer satisfaction has been the cornerstone 
-            of our success.
+          Established in 2010, CarRental has evolved from a small local business into
+           one of the region's top car rental services.
+           Our dedication to exceptional service and customer
+            satisfaction has been the key to our success
           </p>
         </div>
         <div className="about-image">

@@ -18,6 +18,7 @@ function Header() {
 
   return (
     <>
+   
       <header className={`header ${isScrolled ? 'scrolled' : ''}`}>
         <div className="header-content">
           <Link to="/" className="logo">

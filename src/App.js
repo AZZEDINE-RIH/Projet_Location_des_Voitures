@@ -27,6 +27,7 @@ function App() {
             <Route path="/cars" element={<Cars />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/about" element={<About />} />
+           
             <Route path="*" element={
               <div className="not-found">
                 <h1>404 - Page Not Found</h1>

@@ -34,14 +34,60 @@ function CarList({ category = 'all' }) {
     },
     {
       id: 4,
-      model: "Honda CR-V",
+      model: "Audi RS7 Sportback",
       year: 2022,
       price: 65,
       category: "suv",
-      image: "https://images.unsplash.com/photo-1568844293986-ca411c4d8094",
+      image: "4b71e83ed992c921094eab679a8af6ad.jpg",
+      vailable: true
+    },
+    {
+      id: 4,
+      model: "Audi RS7 Sportback",
+      year: 2022,
+      price: 65,
+      category: "suv",
+      image: "1701680147a6132548ced9ef446f0162.jpg",
+      available: true
+    },
+    {
+      id: 4,
+      model: "Audi RS7 Sportback",
+      year: 2022,
+      price: 65,
+      category: "suv",
+      image: "image.png",
+      available: true
+    },
+    {
+      id: 4,
+      model: "Audi RS7 Sportback",
+      year: 2022,
+      price: 65,
+      category: "suv",
+      image: "jeeb.jpg",
+      available: true
+    },
+    {
+      id: 4,
+      model: "Audi RS7 Sportback",
+      year: 2022,
+      price: 65,
+      category: "suv",
+      image: "4b71e83ed992c921094eab679a8af6ad.jpg",
+      available: true
+    },
+    {
+      id: 4,
+      model: "Audi RS7 Sportback",
+      year: 2022,
+      price: 65,
+      category: "suv",
+      image: "0912d61443005ebf59b098effac83997.jpg",
       available: true
     }
   ];
+  
 
   // Filter cars based on category
   const [filteredCars, setFilteredCars] = useState(
